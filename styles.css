@@ -6,5 +6,6 @@ button { width: 100%; height: 100%; border: 0px solid black; background-color: r
 button.previous { height:10vh; width:20vh; position: fixed; top: 88vh; left: 2vh; background-color: rgba(128,200,255,0.75); }
 button.disabledprevious { height:10vh; width:20vh; position: fixed; top: 88vh; left: 2vh; background-color: rgba(128,200,255,0.5); }
 button.next { height:10vh; width:20vh; position: fixed; top: 88vh; right: 2vh; background-color: rgba(128,200,255,0.75); }
+button.disablednext { height:10vh; width:20vh; position: fixed; top: 88vh; right: 2vh; background-color: rgba(128,200,255,0.5); }
 button.restart { height:10vh; width:20vh; position: fixed; top: 2vh; left: 2vh; background-color: rgba(128,200,255,0.75); }
 img { height:22vh; }
